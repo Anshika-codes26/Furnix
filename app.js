@@ -462,8 +462,6 @@ function setupProductCards() {
     });
 }
 
-// ========== Search and Profile functionality ==========
-
 // ========== Search functionality ==========
 const searchIcon = document.querySelector('.nav-icons a[aria-label="Search"]');
 if (searchIcon) {
