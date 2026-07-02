@@ -1980,6 +1980,10 @@ small {
     display: inline-block;
     animation: btn-spin 0.6s linear infinite;
 }
+body {
+  font-family: Arial;
+}
+
 #topBtn {
   display: none;
   position: fixed;
